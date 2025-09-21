@@ -221,3 +221,4 @@ __marimo__/
 .idea/
 /Tamarind_Tech.pyproject.user
 /Tamarind_Tech.pyproject
+*.xml
